@@ -44,6 +44,7 @@ h1 small.pull-right{
 	font-size:72px;
 	line-height:80px;
 	color:#fff;
+
 	font-weight:normal;
 	text-align: center;
 }
@@ -63,7 +64,9 @@ h1 small.pull-right{
 .heading{
 	position:relative;
 	height:auto;
-	background:url(../../images/spacex.jpg) no-repeat fixed center top #8d5a72;
+	background:url(../../images/snowboard.jpg) no-repeat fixed top #8d5a72;
+	background-size: 100% 100%;
+
 }
 .heading.page-item-class{
 	padding:0;
@@ -77,6 +80,9 @@ h1 small.pull-right{
 }
 .nav a{
 	outline:none;
+}
+.nav-name-font{
+	font-size: 1em;
 }
 .navigation_main.navbar-fixed-top{
 	background: url(../img/pattern2.png) repeat-x scroll left bottom transparent;
@@ -154,7 +160,7 @@ h1 small.pull-right{
 	min-height:200px;
 	color: red;
 	letter-spacing: .5px;
-	color:#ff526a;
+	color:#fff;
 	font-size: 2.3em;
 }
 .logo img{
@@ -247,7 +253,8 @@ h1 small.pull-right{
 
 
 .tablet_drop_down{display:none;}
-.hello_block{text-align:center;font-size:14px;color:#fff;padding-top:14px;padding-bottom:34px;font-family:'Montserrat',Arial,sans-serif;}
+.hello_block{text-align:center;font-size:14px;color:#ff526a;
+;padding-top:14px;padding-bottom:34px;font-family:'Montserrat',Arial,sans-serif;}
 
 .decorative_line{
 	display: inline;
@@ -259,9 +266,10 @@ h1 small.pull-right{
 .decorative_line h6{
 	display:inline;
 }
+/*#e8e5dd*/
 .decorative_line .decorative_line_pre,
 .decorative_line .decorative_line_after{
-	background-color: #e8e5dd;
+	background-color: #fff;
     height: 1px;
     left: 0;
     position: absolute;
