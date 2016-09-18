@@ -376,7 +376,8 @@ h1 small.pull-right{
 }
 .google_map .form_container{
 	width: 290px;
-	background-color:#dd4a38;
+	/*background-color:#dd4a38;*/
+	background-color: #0080FF;
 	padding:40px;
 	color:#fff;
 	position:absolute;
@@ -424,7 +425,7 @@ h1 small.pull-right{
     top: 50%;
     width: 42px;
 	cursor:pointer;
-	background-color: #DD4A38;
+	background-color: red;
 }
 
 .google_map .form_container .form_close_elements i{
@@ -475,6 +476,7 @@ h1 small.pull-right{
 .follow_us_block{
     margin-top: 50px;
     overflow: hidden;
+		margin-left: 34%;
 }
 .follow_element{
 	float: left;
@@ -565,7 +567,7 @@ h1 small.pull-right{
 }
 
 .footer{
-	background: url(../img/footer_pattern.png) repeat-x;
+	/*background: url(../img/footer_pattern.png) repeat-x;*/
 	border:none;
 	padding-top:9px;
 	padding-bottom:0px;
