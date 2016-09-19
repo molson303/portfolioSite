@@ -7,12 +7,28 @@ Baby Blue #7ECEFC
 Darker Blue #2186C4
 Grey #3F464C*/
 
+/*Vector images resizing*/
+.img1-res{
+	height: 60%;
+	width: 60%;
+}
+.img2-res{
+	height: 40%;
+	width: 40%;
+}
+.img3-res{
+	height: 40%;
+	width: 40%;
+}
+.img4-res{
+	height: 40%;
+	width: 40%;
+}
 
 .inner-HW{
 	height: 20%;
 	width: 20%;
 }
-
 body{
 	font-family: 'Droid Serif',Helvetica,Arial,sans-serif;
 	font-size:16px;
