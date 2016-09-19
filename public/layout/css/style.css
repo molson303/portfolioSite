@@ -385,13 +385,13 @@ h1 small.pull-right{
     width: 92px;
 }
 
-.event_block h2{
+/*.event_block h2{
 	font-size:36px;
 	font-family:'Raleway',Arial,sans-serif;
 	font-weight:normal;
 	margin-bottom:30px;
 	line-height:40px;
-}
+}*/
 /*Salmon  #FF7F66
 Cream   #FFF6E5
 Baby Blue #7ECEFC
@@ -399,24 +399,25 @@ Darker Blue #2186C4
 Grey #3F464C*/
 .event_block{
 	background-color: #3F464C;
-	/*background-color:#3bd072;*/
 	color:#FFF6E5;
-	padding: 15px 10px 60px 10px;
+	/*padding: 15px 10px 60px 10px;*/
+	padding-bottom: 10%;
 }
 .event_block2{
-	/*background-color:#08ac67;*/
-	background-color: #FF7F66  ;
-
+	color:#FFF6E5;
+	background-color: #FF7F66;
+	padding-bottom: 47%;
 }
 .event_block3{
-	/*background-color:#1d7c80;*/
-	background-color: #7ECEFC ;
-
+	background-color: #7ECEFC;
+	color:#FFF6E5;
+	padding-bottom: 13%;
 
 }
 .event_block4{
-	/*background-color:#2b4664;*/
-	background-color: #2186C4 ;
+	background-color: #2186C4;
+	color:#FFF6E5;
+	padding-bottom: 50%;
 
 }
 
@@ -753,12 +754,17 @@ Grey #3F464C*/
 	margin-top: -40vh;
 }
 
-#page3 a{
+#page3 a,{
 	color:#ff526a;
 	font-size: 2em;
 	font-family:'Montserrat',Arial,sans-serif;
+}
+.event-block-text{
+	font-family:'Raleway',Arial,sans-serif;
+	color:#ff526a;
 
 }
+
 #page4{
 	background-color:#000;
 }
