@@ -1,6 +1,9 @@
 /*color:#ff526a;*/
 
-
+.resume-resize{
+	height: 30%;
+	width: 30%;
+}
 body{
 	font-family: 'Droid Serif',Helvetica,Arial,sans-serif;
 	font-size:16px;
