@@ -309,8 +309,7 @@ h1 small.pull-right{
 .flexslider .slides > li{position:relative;}
 .flex-caption{
 	opacity:0;
-	background-color: #353739;
-	background-color:rgba(0, 0, 0, 0.6);
+ 	background-color:rgba(0, 0, 0, 0.6);
 	color:#fff;
     bottom: 20px;
     left: 3%;
@@ -656,14 +655,14 @@ h1 small.pull-right{
 }
 
 #page2, #page2 h1{
-	background-color:#ff5b4c;
+	background-color:#0080FF;
 	color:#ffffff;
 }
 #page2 h1{
 	color:#ffffff;
 }
 #page3{
-	background-image:url("../../images/events_bg.jpg");
+	background-image:url("../../images/lake.jpg");
 	background-color:#31366b;
 	color:#ffffff;
 }
