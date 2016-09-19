@@ -350,13 +350,27 @@ h1 small.pull-right{
 	line-height:40px;
 }
 .event_block{
-	background-color:#3bd072;
+	background-color: #1F7198;
+	/*background-color:#3bd072;*/
 	color:#fff;
 	padding: 15px 10px 60px 10px;
 }
-.event_block2{	background-color:#08ac67;}
-.event_block3{	background-color:#1d7c80;}
-.event_block4{	background-color:#2b4664;}
+.event_block2{
+	/*background-color:#08ac67;*/
+	background-color: #007FAC;
+
+}
+.event_block3{
+	/*background-color:#1d7c80;*/
+	background-color: #2693BA;
+
+
+}
+.event_block4{
+	/*background-color:#2b4664;*/
+	background-color: #9EAAC6;
+
+}
 
 .isotop_item{overflow:hidden;position:relative;}
 .isotop_item.horizontal{min-height:630px;}
