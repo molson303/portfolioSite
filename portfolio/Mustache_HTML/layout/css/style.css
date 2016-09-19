@@ -662,7 +662,8 @@ h1 small.pull-right{
 	color:#ffffff;
 }
 #page3{
-	background-image:url("../../images/lake.jpg");
+	background-image:url("../../images/canoe.jpeg");
+	background-size: 100% 100%;
 	background-color:#31366b;
 	color:#ffffff;
 }
@@ -670,7 +671,10 @@ h1 small.pull-right{
 	color:#ffffff;
 }
 #page3 a{
-	color:#3bd072;
+	color:#ff526a;
+	font-size: 2em;
+	font-family:'Montserrat',Arial,sans-serif;
+
 }
 #page4{
 	background-color:#000;
