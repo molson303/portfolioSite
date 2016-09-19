@@ -1,9 +1,10 @@
 /*color:#ff526a;*/
+.inner-HW{
+	height: 20%;
+	width: 20%;
 
-.resume-resize{
-	height: 30%;
-	width: 30%;
 }
+
 body{
 	font-family: 'Droid Serif',Helvetica,Arial,sans-serif;
 	font-size:16px;
@@ -657,6 +658,10 @@ h1 small.pull-right{
 	font-family:'Montserrat',Arial,sans-serif;
 }
 
+/*#page1{
+	background-color: black;
+}*/
+
 #page2, #page2 h1{
 	background-color:#0080FF;
 	color:#ffffff;
@@ -673,6 +678,10 @@ h1 small.pull-right{
 #page3 h1, #page3 h2, #page3 h3, #page3 h4, #page3 h5, #page3 h6, #page3 h1 small {
 	color:#ffffff;
 }
+.page-3-margin{
+	margin-top: -40vh;
+}
+
 #page3 a{
 	color:#ff526a;
 	font-size: 2em;
@@ -811,7 +820,7 @@ h1 small.pull-right{
 		min-height:456px;
 	}
 	.isotop_item_inner, .isotop_item{
-		/*height: 420px !important;*/
+		height: 420px !important;
 	}
 	.isotop_item{
 		min-height:420px ;
@@ -850,7 +859,7 @@ h1 small.pull-right{
 
 	}
 	.isotop_item_inner, .isotop_item{
-		/*height: 295px !important;*/
+		height: 295px !important;
 	}
 	.isotop_item{
 		min-height:295px ;
