@@ -9,6 +9,10 @@ Grey #3F464C*/
 .hr-color{
 	border-color: #3F464C;
 }
+.contact-header{
+	color: #3F464C;
+}
+
 
 
 /*Vector images resizing*/
@@ -46,7 +50,7 @@ body{
 	font-family: 'Droid Serif',Helvetica,Arial,sans-serif;
 	font-size:16px;
 	color:#919191;
-	background-color:#faf8f2;
+	background-color:#FFF6E5;
 	line-height: 24px;
 }
 a, a:hover, a:focus{
@@ -76,7 +80,9 @@ h1 small.pull-right{
     margin-top: 40px;
 }
 
-.tac{text-align:center}
+.tac{
+	text-align:center;
+}
 
 .heading .page-header{
 	border-bottom:0;
@@ -85,7 +91,6 @@ h1 small.pull-right{
 	font-size:72px;
 	line-height:80px;
 	color:#FFF6E5;
-
 	font-weight:normal;
 	text-align: center;
 }
@@ -102,13 +107,11 @@ h1 small.pull-right{
     margin: 0 0 30px;
     padding-bottom: 0;
 }
-
 .heading{
 	position:relative;
 	height:auto;
 	background:url(../../images/snowboard.jpg) no-repeat fixed top #8d5a72;
 	background-size: 100% 100%;
-
 }
 .heading.page-item-class{
 	padding:0;
@@ -139,6 +142,7 @@ h1 small.pull-right{
 }
 .navigation_main .container-fluid{
 	background-color: #fff;
+	/*background-color: black;*/
 	/*min-height:106px;*/
 	min-height:86;
 }
@@ -304,6 +308,10 @@ h1 small.pull-right{
 	font-family:'Montserrat',Arial,sans-serif;
 	margin-top: -10%;
 }
+.follow_text{
+	color: #3F464C;
+	margin-left: 2%;
+}
 
 .decorative_line{
 	display: inline;
@@ -324,6 +332,7 @@ h1 small.pull-right{
     position: absolute;
     top: 0;
 }
+
 
 .header_arrow_button{
 	background: url("../img/header_arrow_button.png") repeat scroll 0 0 transparent;
@@ -447,16 +456,15 @@ Grey #3F464C*/
 }
 .google_map .form_container{
 	width: 290px;
-	/*background-color:#dd4a38;*/
-	background-color: #0080FF;
+	background-color: #2186C4;
 	padding:40px;
-	color:#fff;
+	color: #FFF6E5  ;
 	position:absolute;
 	min-height:540px;
 }
 .google_map .form_container legend{
 	border:none;
-	color:#fff;
+	color:#FFF6E5 ;
 	margin-bottom: 30px;
     padding-top: 20px;
 	font-size:40px;
@@ -473,7 +481,7 @@ Grey #3F464C*/
 .google_map .form_container input,
 .google_map .form_container textarea{
 	width:276px;
-	border: 1px solid #b82b1a;
+	border: 1px solid #7ECEFC ;
 	-webkit-box-shadow: inset 0 0 1px rgba(184, 43, 26, 0.075);
 		 -moz-box-shadow: inset 0 0 1px rgba(184, 43, 26, 0.075);
 			  box-shadow: inset 0 0 1px rgba(184, 43, 26, 0.075);
@@ -496,7 +504,7 @@ Grey #3F464C*/
     top: 50%;
     width: 42px;
 	cursor:pointer;
-	background-color: red;
+	background-color: #FF7F66;
 }
 
 .google_map .form_container .form_close_elements i{
@@ -646,10 +654,10 @@ Grey #3F464C*/
 	font-style: normal;
 }
 .footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6{
-	color:#d6d6d9;
+	color:#7ECEFC;
 }
 .footer_inner{
-	background-color:#fff;
+	background-color:#3F464C;
 	padding-bottom:9px;
 	min-height:84px;
 }
@@ -659,14 +667,15 @@ Grey #3F464C*/
 }
 .back_top_top{
 	margin-top: 36px;
-	color:#D6D6D9;
+	color:#7ECEFC;
 }
 .back_top_top i{
 	margin-left:10px;
 }
 .back_top_top:hover{
-	color:#313440;
+	color:#7ECEFC;
 }
+
 .page-item-class{
 	padding-bottom:70px;
 	padding-top:55px;
@@ -769,7 +778,6 @@ Grey #3F464C*/
 	color:#ff526a;
 
 }
-
 #page4{
 	background-color:#000;
 }
@@ -785,7 +793,6 @@ Grey #3F464C*/
 	.follow_element:first-child {
 		margin-left: 0;
 	}
-
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
