@@ -12,20 +12,25 @@ Grey #3F464C*/
 .contact-header{
 	color: #3F464C;
 }
+.number{
+	font-size: .7em;
+	margin-top: 4vh;
+	color: #FFF6E5;
+}
 
 /*Vecotr image sizing*/
 #git-size{
 	height: 7vh;
-	margin-top: -23%;
-	margin-left: 40%;
+	margin-top: -19%;
+	margin-left: 35%;
 	/*background-color:#FFF6E5;*/
 	border-radius: 50%;
 }
 
 #in-size{
 	height: 7vh;
-	margin-top: -27.3%;
-	margin-left: 55%;
+	margin-top: -23%;
+	margin-left: 60%;
 }
 
 /*Vector images resizing*/
@@ -365,7 +370,7 @@ h1 small.pull-right{
 	margin-top:0;
 }
 .slogan-location{
-	margin-top: 13%;
+	margin-top: 3%;
 }
 
 .flexslider{
