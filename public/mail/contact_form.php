@@ -5,7 +5,7 @@
 	$headers = "MIME-Version: 1.0\r\n";
 	$headers .= "Content-type: text/html; charset=utf-8\r\n";
 
-	$subject = "Contact form message"; // Enter your subject here
+	$subject = "Portfolio Site Response"; // Enter your subject here
 	$body = "";
 
 

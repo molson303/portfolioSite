@@ -13,7 +13,20 @@ Grey #3F464C*/
 	color: #3F464C;
 }
 
+/*Vecotr image sizing*/
+#git-size{
+	height: 7vh;
+	margin-top: -23%;
+	margin-left: 40%;
+	/*background-color:#FFF6E5;*/
+	border-radius: 50%;
+}
 
+#in-size{
+	height: 7vh;
+	margin-top: -27.3%;
+	margin-left: 55%;
+}
 
 /*Vector images resizing*/
 .img1-res{
@@ -305,8 +318,9 @@ h1 small.pull-right{
 	color:#FF7F66;
 	padding-top:14px;
 	padding-bottom:34px;
-	font-family:'Montserrat',Arial,sans-serif;
 	margin-top: -10%;
+	font-family: 'Droid Serif',Helvetica,Arial,sans-serif;
+
 }
 .follow_text{
 	color: #3F464C;
