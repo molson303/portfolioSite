@@ -1,12 +1,12 @@
 <?php
 
-	$emailTo = "molson303@gmail.com"; // Enter your email for feedbacks here
+	$emailTo = "michael.olson756@gmail.com"; // Enter your email for feedbacks here
 
 	$headers = "MIME-Version: 1.0\r\n";
 	$headers .= "Content-type: text/html; charset=utf-8\r\n";
 
 	$subject = "Portfolio Site Response"; // Enter your subject here
-	$body = "";
+	$body = "Below is the users response";
 
 
 	reset($_GET);
