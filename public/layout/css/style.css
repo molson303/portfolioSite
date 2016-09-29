@@ -21,25 +21,26 @@ Grey #3F464C*/
 /*Vecotr image sizing*/
 #git-size{
 	height: 7vh;
-	margin-left: 35%;
+	margin-left: 25%;
 	border-radius: 50%;
-	margin-top: -1%;
 	display: inline-block;
+	margin-top: 10%
 }
 
-#in-size{
-	margin-top: -10%;
-	height: 7vh;
-	margin-left: 60%;
-	display: inline-block;
-
-}
 #email{
-	margin-left: 47%;
-	margin-top: -6%;
+	margin-left: 24%;
+	margin-top: 15%;
 	display: inline-block;
 
 }
+#in-size{
+	height: 7vh;
+	margin-left: 25%;
+	margin-top: 15%;
+	display: inline-block;
+
+}
+
 
 /*Vector images resizing*/
 .img1-res{
