@@ -1,5 +1,5 @@
 <?php
-
+ 
 	$emailTo = "michael.olson756@gmail.com"; // Enter your email for feedbacks here
 
 	$headers = "MIME-Version: 1.0\r\n";
